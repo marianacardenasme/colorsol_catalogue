@@ -1,0 +1,87 @@
+.HomePage {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 3em;
+    justify-content: center;
+    padding: 0 10% 5% 10%;
+}
+
+.box {
+    position: relative;
+    color: transparent;
+    width: 15em;
+    height: 15em;
+}
+
+.box:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.box img {
+    position: absolute;
+    width: 15em;
+    height: 15em;
+}
+
+.innerbox {
+    position: absolute;
+    width: 15em;
+    height: 15em;
+    text-align: center;
+    color: transparent;
+}
+
+.innerbox:hover {
+    backdrop-filter: blur(2px);
+    color: white;
+}
+
+.innerbox h1 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 1.3em;
+    line-height: 2.2em;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: capitalize;
+    padding-top: 20%;
+}
+
+.innerbox h2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+@media screen and (max-width: 420px) {
+    .HomePage {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 1em;
+        justify-content: center;
+        padding: 0 10% 5% 10%;
+    }
+    .box {
+        position: relative;
+        color: transparent;
+        width: 8em;
+        height: 8em;
+    }
+    .box img {
+        position: absolute;
+        width: 8em;
+        height: 8em;
+    }
+    
+    .innerbox {
+        position: absolute;
+        width: 8em;
+        height: 8em;
+        text-align: center;
+        color: transparent;
+    }
+}

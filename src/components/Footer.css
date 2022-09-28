@@ -1,0 +1,29 @@
+.Footer {
+    max-width: 1400px;
+    padding: 0 10% 5% 10%;
+}
+
+.Footer h3 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+}
+
+.Footer a{
+    color: #c9958c;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.Footer a:hover {
+    color: #ffd9d3;
+}
+
+@media screen and (max-width: 420px) {
+    .Footer h3 {
+        font-size: 0.7em;
+        font-weight: 500;
+    }
+}

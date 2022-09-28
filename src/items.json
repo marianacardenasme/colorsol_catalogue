@@ -1,0 +1,375 @@
+{
+    "products":[
+        {
+            "name" : "capri",
+            "price": "$25.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023227_y-1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393343_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5003529569063512760_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023205_y.jpg",
+            "category": "Anillos",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : "Tallas disponibles: 6, 7, 8"
+        },
+        {
+            "name" : "cassel",
+            "price": "$28.000",
+            "picture": "https://www.linkpicture.com/q/IMG_0253_3.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5032957035708263031_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4997269860388023214_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5003529569063512759_y.jpg",
+            "category": "Anillos",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : "Tallas disponibles: 6, 7"
+        },
+        {
+            "name" : "hanoi",
+            "price": "$25.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023199_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483145_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4999521660201708715_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5035274106139945527_y.jpg",
+            "category": "Anillos",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : "Tallas disponibles: 8"
+        },
+        {
+            "name" : "bled",
+            "price": "$12.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023201_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393346_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5035274106139945527_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393341_y.jpg",
+            "category": "Anillos",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : "Tallas disponibles: 7"
+        },
+        {
+            "name" : "hail",
+            "price": "$28.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023209_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483153_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4997269860388023212_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5032957035708263032_y.jpg",
+            "category": "Aretes",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "cher",
+            "price": "$22.000",
+            "picture": "https://www.linkpicture.com/q/photo_4994842061404483139_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393345_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5008288702065126299_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023211_y.jpg",
+            "category": "Aretes",
+            "description": "Material: rodio, microcircones incrustados",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "kerki",
+            "price": "$15.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023204_y_1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4972351847411067665_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4999521660201708716_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4999521660201708714_y.jpg",
+            "category": "Aretes",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "miami",
+            "price": "$20.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023203_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5076049662359742979_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/IMG_0102_jpg_2.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4994842061404483149_y.jpg",
+            "category": "Aretes",
+            "description": "Material: aros en acero inoxidable, dijes en goldfilled",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "pothia",
+            "price": "$14.000",
+            "picture": "https://www.linkpicture.com/q/photo_4994842061404483155_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023206_y-1.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393348_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4994842061404483154_y.jpg",
+            "category": "Aretes",
+            "description": "Material: aros en acero inoxidable, perlas de aguadulce, dijes en goldfilled",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "teroi",
+            "price": "$10.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023229_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5035274106139945525_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393351_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393352_y.jpg",
+            "category": "Aretes",
+            "description": "Material: acero inoxidable, nacar",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "valera",
+            "price": "$10.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023207_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393356_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393353_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023216_y.jpg",
+            "category": "Aretes",
+            "description": "Material: aros en acero inoxidable, dijes en goldfilled",
+            "aditionalinfo" : null
+        },
+        
+        {
+            "name" : "allier",
+            "price": "$15.000",
+            "picture": "https://www.linkpicture.com/q/photo_4994842061404483141_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023202_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5032957035708263031_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4994842061404483147_y.jpg",
+            "category": "Aretes",
+            "description": "Material: rodio, microcircones con forma de corazón incrustados",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "atenas",
+            "price": "$17.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023312_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5032957035708263031_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5032957035708263032_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4972351847411067665_y_1.jpg",
+            "category": "Aretes",
+            "description": "Material: rodio",
+            "aditionalinfo" : null
+
+        },
+        {
+            "name" : "ouham",
+            "price": "$21.000",
+            "picture": "https://www.linkpicture.com/q/photo_5001773460015393355_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483150_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5032957035708263032_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023215_y.jpg",
+            "category": "Earcuffs",
+            "description": "Material: goldfilled",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "kaya",
+            "price": "$21.000",
+            "picture": "https://www.linkpicture.com/q/IMG_0443.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023217_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5008288702065126299_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023218_y.jpg",
+            "category": "Earcuffs",
+            "description": "Material: goldfilled",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "praia",
+            "price": "$19.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023315_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023220_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4997269860388023314_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023298_y.jpg",
+            "category": "Cadenas",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "jena",
+            "price": "$20.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023309_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483132_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4994842061404483148_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023208_y.jpg",
+            "category": "Cadenas",
+            "description": "Material: rodio, microcircones incrustados",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "alimos",
+            "price": "$20.000",
+            "picture": "https://www.linkpicture.com/q/photo_4994842061404483151_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483142_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4994842061404483152_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4997269860388023310_y.jpg",
+            "category": "Cadenas",
+            "description": "Material: acero inoxidable, dije de letra en goldfilled",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "amora",
+            "price": "$18.000",
+            "picture": "https://www.linkpicture.com/q/photo_4994842061404483136_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5003529569063512757_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5003529569063512758_y-1_1.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5003529569063512756_y.jpg",
+            "category": "Cadenas",
+            "description": "Material: rodio",
+            "aditionalinfo" : null
+        },
+        
+        {
+            "name" : "xx",
+            "price": "$18.000",
+            "picture": "https://www.linkpicture.com/q/IMG_0254_3.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023219_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393361_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393359_y.jpg",
+            "category": "Cadenas",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : null
+        },
+        
+        {
+            "name" : "oulu",
+            "price": "$10.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023295_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5017484974370171587_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4997269860388023296_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5017484974370171588_y_1.jpg",
+            "category": "Collares",
+            "description": "Material: swarovski, dije en rodio con microcircones incrustados",
+            "aditionalinfo" : "Longitud: 20cm"
+        },
+        
+        
+        {
+            "name" : "dhala",
+            "price": "$14.000",
+            "picture": "https://www.linkpicture.com/q/photo_5001773460015393358_y_1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393363_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393360_y_1.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393362_y_1.jpg",
+            "category": "Collares",
+            "description": "Material: perlas de vidrio",
+            "aditionalinfo" : "Longitud: 20cm"
+        },
+        {
+            "name" : "milan",
+            "price": "$16.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023316_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023313_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4994842061404483156_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5076049662359742974_y.jpg",
+            "category": "Collares",
+            "description": "Material: perlas de vidrio, figuras en fimo",
+            "aditionalinfo" : "Longitud: 20cm"
+        },
+        {
+            "name" : "amara",
+            "price": "$18.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023306_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4972351847411067666_y_1.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4997269860388023297_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393347_y_1.jpg",
+            "category": "Collares",
+            "description": "Material: perlas de aguadulce, perlas de plástico, balines en acero inoxidable",
+            "aditionalinfo" : "Longitud: 20cm"
+        },
+        {
+            "name" : "ankara",
+            "price": "$20.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023290_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5003529569063512754_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5035274106139945532_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5003529569063512755_y.jpg",
+            "category": "Pulseras",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "terni",
+            "price": "$35.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023293_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483134_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5017484974370171614_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4994842061404483154_y.jpg",
+            "category": "Pulseras",
+            "description": "Material: miyuki",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "klos",
+            "price": "$20.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023291_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4999521660201708744_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393364_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4999521660201708747_y.jpg",
+            "category": "Pulseras",
+            "description": "Material: miyuki",
+            "aditionalinfo" : null
+        },
+        
+        {
+            "name" : "taúm",
+            "price": "$15.000",
+            "picture": "https://www.linkpicture.com/q/photo_5001773460015393357_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4999521660201708741_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393349_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5003529569063512754_y.jpg",
+            "category": "Pulseras",
+            "description": "Material: perlas de aguadulce",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "kaele",
+            "price": "$14.000",
+            "picture": "https://www.linkpicture.com/q/photo_5003529569063512761_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5035274106139945536_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393350_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5017484974370171615_y.jpg",
+            "category": "Tobilleras",
+            "description": "Material: hilo, dijes en goldfilled, figuras en fimo",
+            "aditionalinfo" : "(Incluye ambas)"
+        },
+        {
+            "name" : "gera",
+            "price": "$8.000",
+            "picture": "https://www.linkpicture.com/q/IMG_0439.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_4997269860388023307_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5017484974370171596_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5017484974370171595_y.jpg",
+            "category": "Tobilleras",
+            "description": "Material: hilo, madera, plástico",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "merida",
+            "price": "$10.000",
+            "picture": "https://www.linkpicture.com/q/photo_5001773460015393366_y-1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5017484974370171612_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4913469778518190761_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_4999521660201708746_y.jpg",
+            "category": "Caimanes",
+            "description": "Material: plástico",
+            "aditionalinfo" : "Colores disponibles: blanco y café, blanco y negro"
+        },
+        {
+            "name" : "veracruz",
+            "price": "$10.000",
+            "picture": "https://www.linkpicture.com/q/photo_5017484974370171603_y_1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5017484974370171599_x.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5001773460015393367_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5017484974370171601_y.jpg",
+            "category": "Caimanes",
+            "description": "Material: plástico",
+            "aditionalinfo" : "Colores disponibles: café y negro"
+        },
+        {
+            "name" : "furth",
+            "price": "$30.000",
+            "picture": "https://www.linkpicture.com/q/photo_5017484974370171594_y_1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5017484974370171593_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_4994842061404483146_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5017484974370171589_y_3.jpg",
+            "category": "Tote bags",
+            "description": "Material: lienzo",
+            "aditionalinfo" : null
+        }
+        
+    ]
+}

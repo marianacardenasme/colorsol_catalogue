@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300&family=Yeseva+One&display=swap');
+
+.App {
+  max-width: 1400px;
+  justify-content: center;
+  padding: 30px 80px;
+  background-color: #fffff1;
+}

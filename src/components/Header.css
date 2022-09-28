@@ -1,0 +1,33 @@
+.Header{
+    /* display: flex;
+    align-items: center; */
+    padding: 2% 10%;
+}
+
+.Header h1{
+    text-align: center;
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.5em;
+    line-height: 2.7em;
+    font-weight: 400;
+    color: #ffd9d3;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.Menu {
+    display: flex;
+    justify-items: center;
+}
+
+.Menu:hover {
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 420px) {
+    .Header h1{
+        font-size: 1.8em;
+        line-height: 2em;
+    }
+}

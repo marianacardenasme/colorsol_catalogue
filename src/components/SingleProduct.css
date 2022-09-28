@@ -1,0 +1,99 @@
+.Information {
+    max-width: 1400px;
+    padding: 2% 10%;
+    display: flex;
+    gap: 8%;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.Information img {
+    width: 45%;
+}
+
+.Column {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    justify-content: left;
+}
+
+.Information h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 2em;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.Information h2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #95b47e;
+}
+
+.Information p {
+    font-family: 'Overpass', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-style: italic;
+}
+
+.Information p:nth-child(3) {
+    font-style: normal;
+    color: black;
+}
+
+.Information p:nth-child(4) {
+    font-style: normal;
+    color: black;
+}
+
+.Information a {
+    text-decoration: none;
+    color: #95b47e;
+    font-family: 'Overpass', sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    background-color: #def2cf;
+    padding: 0.5em 1em;
+    border-radius: 0.2rem;
+}
+
+.Information a:hover {
+    color: white;
+}
+
+.Pictures {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: 2%;
+    justify-content: space-between;
+    padding: 2% 15%;
+}
+
+.Pictures img {
+    width: 30%;
+}
+
+@media screen and (max-width: 420px) {
+    .Information {
+        padding: 10%;
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        text-align: right;
+    }
+    
+    .Information img {
+        width: 300px;
+    }
+
+    .Pictures {
+        padding: 2em;
+        padding-bottom: 5em;
+    }
+}
