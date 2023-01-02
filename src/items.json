@@ -12,6 +12,17 @@
             "aditionalinfo" : "Tallas disponibles: 6, 7, 8"
         },
         {
+            "name" : "bled",
+            "price": "$12.000",
+            "picture": "https://www.linkpicture.com/q/photo_4997269860388023201_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393346_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5035274106139945527_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393341_y.jpg",
+            "category": "Anillos",
+            "description": "Material: acero inoxidable",
+            "aditionalinfo" : "Tallas disponibles: 7"
+        },
+        {
             "name" : "cassel",
             "price": "$28.000",
             "picture": "https://www.linkpicture.com/q/IMG_0253_3.jpg",
@@ -23,26 +34,26 @@
             "aditionalinfo" : "Tallas disponibles: 6, 7"
         },
         {
-            "name" : "hanoi",
-            "price": "$25.000",
-            "picture": "https://www.linkpicture.com/q/photo_4997269860388023199_y.jpg",
-            "picture2": "https://www.linkpicture.com/q/photo_4994842061404483145_y.jpg",
-            "picture3": "https://www.linkpicture.com/q/photo_4999521660201708715_y.jpg",
-            "picture4": "https://www.linkpicture.com/q/photo_5035274106139945527_y.jpg",
+            "name" : "shantou",
+            "price": "$13.000",
+            "picture": "https://www.linkpicture.com/q/photo_5010621620926130839_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5010621620926130842_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760892_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5010621620926130843_y.jpg",
             "category": "Anillos",
-            "description": "Material: acero inoxidable",
-            "aditionalinfo" : "Tallas disponibles: 8"
+            "description": "Material: rodio",
+            "aditionalinfo" : "Ajustable"
         },
         {
-            "name" : "bled",
-            "price": "$12.000",
-            "picture": "https://www.linkpicture.com/q/photo_4997269860388023201_y.jpg",
-            "picture2": "https://www.linkpicture.com/q/photo_5001773460015393346_y.jpg",
-            "picture3": "https://www.linkpicture.com/q/photo_5035274106139945527_y.jpg",
-            "picture4": "https://www.linkpicture.com/q/photo_5001773460015393341_y.jpg",
+            "name" : "Lhasa",
+            "price": "$16.000",
+            "picture": "https://www.linkpicture.com/q/photo_5010621620926130840_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5010621620926130841_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760892_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760886_y.jpg",
             "category": "Anillos",
-            "description": "Material: acero inoxidable",
-            "aditionalinfo" : "Tallas disponibles: 7"
+            "description": "Material: rodio",
+            "aditionalinfo" : "Ajustable"
         },
         {
             "name" : "hail",
@@ -78,6 +89,17 @@
             "aditionalinfo" : null
         },
         {
+            "name" : "Fushun",
+            "price": "$9.000",
+            "picture": "https://www.linkpicture.com/q/photo_5015235502428760897_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760895_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5010621620926130843_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760894_y.jpg",
+            "category": "Aretes",
+            "description": "Material: rodio",
+            "aditionalinfo" : null
+        },
+        {
             "name" : "miami",
             "price": "$20.000",
             "picture": "https://www.linkpicture.com/q/photo_4997269860388023203_y.jpg",
@@ -106,6 +128,17 @@
             "picture2": "https://www.linkpicture.com/q/photo_5035274106139945525_y.jpg",
             "picture3": "https://www.linkpicture.com/q/photo_5001773460015393351_y.jpg",
             "picture4": "https://www.linkpicture.com/q/photo_5001773460015393352_y.jpg",
+            "category": "Aretes",
+            "description": "Material: acero inoxidable, nacar",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "macroom",
+            "price": "$13.000",
+            "picture": "https://www.linkpicture.com/q/photo_5015235502428760887_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760889_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760902_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760901_y.jpg",
             "category": "Aretes",
             "description": "Material: acero inoxidable, nacar",
             "aditionalinfo" : null
@@ -146,6 +179,18 @@
 
         },
         {
+            "name" : "ennis",
+            "price": "$17.000",
+            "picture": "https://www.linkpicture.com/q/photo_5015235502428760905_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760903_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760904_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760896_y_1.jpg",
+            "category": "Aretes",
+            "description": "Material: rodio",
+            "aditionalinfo" : null
+
+        },
+        {
             "name" : "ouham",
             "price": "$21.000",
             "picture": "https://www.linkpicture.com/q/photo_5001773460015393355_y.jpg",
@@ -165,6 +210,17 @@
             "picture4": "https://www.linkpicture.com/q/photo_4997269860388023218_y.jpg",
             "category": "Earcuffs",
             "description": "Material: goldfilled",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "quetta",
+            "price": "$10.000",
+            "picture": "https://www.linkpicture.com/q/photo_5015235502428760893_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760885_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5010621620926130843_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760900_y.jpg",
+            "category": "Earcuffs",
+            "description": "Material: rodio",
             "aditionalinfo" : null
         },
         {
@@ -201,6 +257,17 @@
             "aditionalinfo" : null
         },
         {
+            "name" : "huaraz",
+            "price": "$15.000",
+            "picture": "https://www.linkpicture.com/q/photo_5015235502428760898_y-1.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760891_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5010621620926130844_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760890_y.jpg",
+            "category": "Cadenas",
+            "description": "Material: rodio",
+            "aditionalinfo" : null
+        },
+        {
             "name" : "amora",
             "price": "$18.000",
             "picture": "https://www.linkpicture.com/q/photo_4994842061404483136_y.jpg",
@@ -211,9 +278,8 @@
             "description": "Material: rodio",
             "aditionalinfo" : null
         },
-        
         {
-            "name" : "xx",
+            "name" : "vore",
             "price": "$18.000",
             "picture": "https://www.linkpicture.com/q/IMG_0254_3.jpg",
             "picture2": "https://www.linkpicture.com/q/photo_4997269860388023219_y.jpg",
@@ -358,6 +424,17 @@
             "category": "Caimanes",
             "description": "Material: plástico",
             "aditionalinfo" : "Colores disponibles: café y negro"
+        },
+        {
+            "name" : "sullana",
+            "price": "$18.000",
+            "picture": "https://www.linkpicture.com/q/photo_5010621620926130838_y.jpg",
+            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760896_y.jpg",
+            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760884_y.jpg",
+            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760899_y.jpg",
+            "category": "Joyeros",
+            "description": "Colores disponibles: blanco",
+            "aditionalinfo" : null
         },
         {
             "name" : "furth",
