@@ -5,7 +5,7 @@
             "price": "$25.000",
             "picture": "https://i.postimg.cc/022MRvpf/photo-4997269860388023227-y-2.jpg",
             "picture2": "https://i.postimg.cc/L54XpkZX/photo-4997269860388023205-y-1.jpg",
-            "picture3": "https://i.postimg.cc/1XY91kQC/photo-5003529569063512760-y-1.jpg",
+            "picture3": "https://i.postimg.cc/2SvjBcDM/photo-5062596557773319826-y.jpg",
             "picture4": "https://i.postimg.cc/2jTyxtPB/photo-5001773460015393343-y-1.jpg",
             "category": "Anillos",
             "description": "Material: acero inoxidable",
@@ -27,8 +27,8 @@
             "price": "$28.000",
             "picture": "https://i.postimg.cc/k58F6CYS/photo-5060344757959634468-y.jpg",
             "picture2": "https://i.postimg.cc/9Q2W5Y5j/photo-4997269860388023214-y-1.jpg",
-            "picture3": "https://i.postimg.cc/v8pYXd0T/photo-5003529569063512759-y-1.jpg",
-            "picture4": "",
+            "picture3": "https://i.postimg.cc/htVP6yfg/photo-5062596557773319828-y.jpg",
+            "picture4": "https://i.postimg.cc/c1bdky1P/photo-5062596557773319827-y.jpg",
             "category": "Anillos",
             "description": "Material: acero inoxidable",
             "aditionalinfo" : "Tallas disponibles: 6, 7"
@@ -237,7 +237,7 @@
             "price": "$17.000",
             "picture": "https://i.postimg.cc/m2WQJkjF/photo-4997269860388023315-y-1.jpg",
             "picture2": "https://i.postimg.cc/Bb91r7TG/photo-4997269860388023220-y-1.jpg",
-            "picture3": "https://i.postimg.cc/DfHXkHw4/photo-5035274106139945529-y.jpg",
+            "picture3": "https://i.postimg.cc/dQyfG7D7/photo-4997269860388023314-y-1.jpg",
             "picture4": "https://i.postimg.cc/8CYvHzsc/photo-4997269860388023298-y-1.jpg",
             "category": "Cadenas",
             "description": "Material: acero inoxidable",
@@ -248,7 +248,7 @@
             "price": "$20.000",
             "picture": "https://i.postimg.cc/8Pxxqh3m/photo-4997269860388023309-y-1.jpg",
             "picture2": "https://i.postimg.cc/SxMbsZ8P/photo-4997269860388023208-y-1.jpg",
-            "picture3": "https://i.postimg.cc/dQyfG7D7/photo-4997269860388023314-y-1.jpg",
+            "picture3": "https://i.postimg.cc/LXv88Jps/photo-4994842061404483148-y-1.jpg",
             "picture4": "https://i.postimg.cc/C5Q9MDKY/photo-4913780098495261705-y-1.jpg",
             "category": "Cadenas",
             "description": "Material: rodio, microcircones incrustados",
@@ -310,6 +310,28 @@
             "aditionalinfo" : null
         },
         {
+            "name" : "Osaka",
+            "price": "$25.000",
+            "picture": "https://i.postimg.cc/mgCzsFGH/photo-5062596557773319833-y.jpg",
+            "picture2": "https://i.postimg.cc/KYgyVnX6/photo-5062596557773319838-y.jpg",
+            "picture3": "https://i.postimg.cc/YC0765dq/photo-5062596557773319837-y.jpg",
+            "picture4": "https://i.postimg.cc/JnGHSY71/photo-5062596557773319839-y.jpg",
+            "category": "Collares",
+            "description": "Material: acero inoxidable, dije en piedra de sol azul",
+            "aditionalinfo" : null
+        },
+        {
+            "name" : "Kobe",
+            "price": "$28.000",
+            "picture": "https://i.postimg.cc/63Lf5mJC/photo-5062596557773319832-y.jpg",
+            "picture2": "https://i.postimg.cc/hGV9p5GN/photo-5062596557773319836-y.jpg",
+            "picture3": "https://i.postimg.cc/J4yHp26K/photo-5062596557773319834-y.jpg",
+            "picture4": "https://i.postimg.cc/rFYCm4bZ/photo-5062596557773319835-y.jpg",
+            "category": "Collares",
+            "description": "Material: perlas de vidrio, acero inoxidable, dije en acero con circones",
+            "aditionalinfo" : null
+        },
+        {
             "name" : "dhala",
             "price": "$14.000",
             "picture": "https://i.postimg.cc/gcHTgCqd/photo-5001773460015393358-y-1.jpg",
@@ -336,7 +358,7 @@
             "price": "$20.000",
             "picture": "https://i.postimg.cc/HnWnQGH3/Captura.jpg",
             "picture2": "https://i.postimg.cc/63npsW6M/photo-4999521660201708742-y-1.jpg",
-            "picture3": "",
+            "picture3": "https://i.postimg.cc/ZqsJG1F9/photo-5062596557773319825-y.jpg",
             "picture4": "https://i.postimg.cc/rFJzFw1b/photo-5003529569063512754-y-1.jpg",
             "category": "Pulseras",
             "description": "Material: acero inoxidable",
@@ -362,7 +384,7 @@
             "picture4": "https://i.postimg.cc/dVRMKhGk/photo-4999521660201708744-y-1.jpg",
             "category": "Pulseras",
             "description": "Material: miyuki",
-            "aditionalinfo" : null
+            "aditionalinfo" : "Puedes pedirlo en el color de tu preferencia"
         },
         
         {
@@ -410,6 +432,17 @@
             "aditionalinfo" : null
         },
         {
+            "name" : "morioka",
+            "price": "$24.000",
+            "picture": "https://i.postimg.cc/25sRQ3tC/photo-5062596557773319860-y.jpg",
+            "picture2": "https://i.postimg.cc/NjKzdBmF/photo-5062596557773319859-y.jpg",
+            "picture3": "https://i.postimg.cc/mg1mQVWF/photo-5062596557773319858-y.jpg",
+            "picture4": "https://i.postimg.cc/HnPtM8S2/photo-5062596557773319857-y.jpg",
+            "category": "Tobilleras",
+            "description": "Material: miyuki, acero inoxidable",
+            "aditionalinfo" : "Puedes pedirlo en el color de tu preferencia"
+        },
+        {
             "name" : "merida",
             "price": "$10.000",
             "picture": "https://i.postimg.cc/LXFFdjb1/photo-5001773460015393366-y-2.jpg",
@@ -435,9 +468,9 @@
             "name" : "pekin",
             "price": "$12.000",
             "picture": "https://i.postimg.cc/rFkb88jv/photo-5060344757959634483-y.jpg",
-            "picture2": "https://i.postimg.cc/L8mrVHZz/photo-5060344757959634482-y.jpg",
-            "picture3": "",
-            "picture4": "",
+            "picture2": "https://i.postimg.cc/50gXGPKj/photo-5062596557773319829-y.jpg",
+            "picture3": "https://i.postimg.cc/bvHrDChL/photo-5062596557773319830-y.jpg",
+            "picture4": "https://i.postimg.cc/4N2H1Fj3/photo-5060344757959634481-y.jpg",
             "category": "Caimanes",
             "description": "Material: plástico",
             "aditionalinfo" : "Colores disponibles: verde, rosado"
