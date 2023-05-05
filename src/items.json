@@ -44,17 +44,7 @@
             "description": "Material: rodio",
             "aditionalinfo" : "Ajustable"
         },
-        {
-            "name" : "Lhasa",
-            "price": "$16.000",
-            "picture": "https://www.linkpicture.com/q/photo_5010621620926130840_y.jpg",
-            "picture2": "https://www.linkpicture.com/q/photo_5010621620926130841_y.jpg",
-            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760892_y.jpg",
-            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760886_y.jpg",
-            "category": "Anillos",
-            "description": "Material: rodio",
-            "aditionalinfo" : "Ajustable"
-        },
+        
         {
             "name" : "ottawa",
             "price": "$16.000",
@@ -78,39 +68,6 @@
             "aditionalinfo" : "Talla: ajustable"
         },
         {
-            "name" : "Fushun",
-            "price": "$9.000",
-            "picture": "https://www.linkpicture.com/q/photo_5015235502428760897_y.jpg",
-            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760895_y.jpg",
-            "picture3": "https://www.linkpicture.com/q/photo_5010621620926130843_y.jpg",
-            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760894_y.jpg",
-            "category": "Aretes",
-            "description": "Material: rodio",
-            "aditionalinfo" : null
-        },
-        {
-            "name" : "miami",
-            "price": "$20.000",
-            "picture": "https://i.postimg.cc/Pf63ktgf/photo-4997269860388023203-y-1.jpg",
-            "picture2": "https://i.postimg.cc/cJNTc6nh/photo-4994842061404483149-y-1.jpg",
-            "picture3": "",
-            "picture4": "https://i.postimg.cc/TYgt5ry1/photo-5060344757959634469-y.jpg",
-            "category": "Aretes",
-            "description": "Material: aros en acero inoxidable, dijes en goldfilled",
-            "aditionalinfo" : null
-        },
-        {
-            "name" : "hail",
-            "price": "$28.000",
-            "picture": "https://i.postimg.cc/DZQqycp3/photo-4997269860388023209-y-1.jpg",
-            "picture2": "https://i.postimg.cc/G2tM4VYn/photo-5015235502428760902-y-1.jpg",
-            "picture3": "https://i.postimg.cc/vmfn3zsx/photo-4997269860388023212-y-1.jpg",
-            "picture4": "https://i.postimg.cc/DyG7WYdG/photo-5060344757959634471-y.jpg",
-            "category": "Aretes",
-            "description": "Material: acero inoxidable",
-            "aditionalinfo" : null
-        },
-        {
             "name" : "pothia",
             "price": "$14.000",
             "picture": "https://i.postimg.cc/QN5Qfjjn/photo-4994842061404483155-y-1.jpg",
@@ -128,17 +85,6 @@
             "picture2": "https://i.postimg.cc/rm5DNF51/photo-5001773460015393351-y-1.jpg",
             "picture3": "https://i.postimg.cc/28GBt6MT/photo-5001773460015393352-y-1.jpg",
             "picture4": "https://www.linkpicture.com/q/photo_5001773460015393352_y.jpg",
-            "category": "Aretes",
-            "description": "Material: acero inoxidable, nacar",
-            "aditionalinfo" : null
-        },
-        {
-            "name" : "macroom",
-            "price": "$13.000",
-            "picture": "https://www.linkpicture.com/q/photo_5015235502428760887_y.jpg",
-            "picture2": "https://www.linkpicture.com/q/photo_5015235502428760889_y.jpg",
-            "picture3": "https://www.linkpicture.com/q/photo_5015235502428760902_y.jpg",
-            "picture4": "https://www.linkpicture.com/q/photo_5015235502428760901_y.jpg",
             "category": "Aretes",
             "description": "Material: acero inoxidable, nacar",
             "aditionalinfo" : null
@@ -285,7 +231,7 @@
             "picture4": "https://i.postimg.cc/pLpznjX4/photo-5003529569063512757-y-1.jpg",
             "category": "Cadenas",
             "description": "Material: rodio",
-            "aditionalinfo" : null
+            "aditionalinfo" : "Disponible solo en rosado"
         },
         {
             "name" : "ohiya",
@@ -456,7 +402,7 @@
         {
             "name" : "veracruz",
             "price": "$10.000",
-            "picture": "https://www.linkpicture.com/q/photo_5017484974370171603_y_1.jpg",
+            "picture": "https://i.postimg.cc/3wdpYg5y/photo-5091320680573676185-y.jpg",
             "picture2": "https://i.postimg.cc/yxYV5FDT/photo-5060344757959634480-y.jpg",
             "picture3": "https://i.postimg.cc/dtLHBLWP/photo-5001773460015393367-y-1.jpg",
             "picture4": "https://i.postimg.cc/s2YsgnSc/photo-5017484974370171601-y-1.jpg",
